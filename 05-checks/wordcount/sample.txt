@@ -1,0 +1,2 @@
+uv is fast. uv is simple.
+Python projects love uv!
